@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Yates. I live and work in London. I'm keen on <span class="blue-text">design and photography</span>.
+  description: Hello, my name is Lionel. I'm an amazing underrated developer that loves to be challenged! I'm keen on <span class="blue-text">gamedesign and problem solving</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
