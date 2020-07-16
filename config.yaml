@@ -8,12 +8,15 @@ googleAnalytics: UA-XXXXX-Y
 # Menu items
 menu:
   main:
-  - name: About
-    weight: 1
+  - name: About me
+    weight: 2
     url: /about
   - name: Contact
-    weight: 2
+    weight: 3
     url: /contact
+  - name: Projects
+    weight: 1
+    url: /projects
 
 # Custom params
 params:

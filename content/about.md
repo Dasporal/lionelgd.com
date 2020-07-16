@@ -2,9 +2,9 @@
 title: About me
 date: 2017-11-08T16:56:15+02:00
 draft: false
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores porro voluptas esse natus nemo aperiam asperiores velit neque, magni molestiae!
+description: Learn a bit more about me !
 header:
-  description: I'm a multidisciplinary designer who specializing in <span class="blue-text">UI, UX and Visual Design</span>. Currently based in United Kingdom.
+  description: I'm a game developer and game designer currently based in France. 
   image:
     url: about-hero.png
     alt: The designer's workspace table image
@@ -15,14 +15,12 @@ header:
     - options: 700x420 Center
     - options: 490x318 Center
 text_groups:
-  - name: About
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis saepe perferendis culpa aut libero, <span class="default-text bold-text">voluptatem voluptatum</span>, ut beatae ipsa sint alias autem ipsum ea quibusdam suscipit provident illo nihil nostrum porro. Omnis et hic eum in corrupti dicta cum fugiat!
+  - name: About me
+    description: My name is Lionel, and ever since I've played my first level of Super Mario Bros on the NES, I've been an avid gamer. Like many of us, I only found one thing to be better than playing games, and that was making them ! I pursued a Master's degree specialized in game development and producing at ITESCIA, a school in the Paris Region, where I had the opportunity of learning more about game development and design, while also exploring 3D modeling, sound design, producing and how to lead a small team. 
   - name: Philosophy
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus incidunt autem quia aliquid officia temporibus saepe ut quas nesciunt dolorum odio optio perspiciatis rem accusamus expedita nemo quis, fuga voluptatem. Corrupti vero asperiores officia, ipsa ipsam. Suscipit repellendus molestias, sint quas voluptates quia vitae quidem.
-  - name: Disciplines
-    description: <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
+    description: To me, games are all about having a good time. I value the social aspect of games, as well as their unique innovative use of technology. That's why I made games such as Twocan, a couch co-op platformer, and The Book of Gaia, a groundbreaking Augmented Reality wave shooter for iOS and Android. While making a game, I'm especially interested in implementing features and mechanics that players will have fun with, and that feel great to execute. 
   - name: Get in touch
-    description: <a class="blue-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a>
+    description: <a class="blue-text bold-text" href="mailto:lionel@lionelgd.com">lionel@lionelgd.com</a>
     class: line
 ---
 

@@ -16,5 +16,5 @@ header:
     - options: 360x318
 text_groups:
   - name: Collaboration
-    description: <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, atque officiis ut, veritatis reiciendis sequi quos officia quidem tempora minus fugit a suscipit nulla possimus?</p><br/><p>Let's get started&#58; <a class="blue-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a></p>
+    description: <p>Looking for a junior developer for your games ? Interested in teaming up for a game jam ? Questions about my portfolio or my career? Really, ask me anything, it could be the beginning of something great !</p><br/><p>Let's get started&#58; <a class="blue-text bold-text" href="mailto:lionel@lionelgd.com">lionel@lionelgd.com</a></p>
 ---
