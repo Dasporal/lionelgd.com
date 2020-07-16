@@ -1,7 +1,7 @@
 [submodule "themes/yourfolio"] 
   path = themes/yourfolio 
   url = https://github.com/serg/yourfolio.git
-[submodule "public/public"]
-	path = public/public
+[submodule "public"]
+	path = public
 	url = https://github.com/LionelFW/LionelFW.github.io.git
 	branch = master
