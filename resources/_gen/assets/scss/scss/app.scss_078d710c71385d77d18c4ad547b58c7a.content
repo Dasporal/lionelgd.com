@@ -81,6 +81,12 @@
     -o-transition: all 200ms linear 300ms;
     transition: all 200ms linear 300ms; }
 
+.gaia {
+  width: 100%; }
+
+.center {
+  text-align: center; }
+
 .project-caption {
   padding: 1.5em;
   line-height: 1.2; }
